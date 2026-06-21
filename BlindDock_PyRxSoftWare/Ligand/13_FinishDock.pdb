@@ -1,0 +1,44 @@
+REMARK   4 XXXX COMPLIES WITH FORMAT V. 2.0
+ATOM     13  HN  UNL N   1      27.725   7.245   8.351  1.00  0.00      6U26 H  
+ATOM     38  HN  UNL N   1      17.131  10.829   7.183  1.00  0.00      6U26 H  
+TER      39      UNL N   1 
+HETATM    1  C   UNL N   1      23.403   8.474   9.299  0.00  0.00      6U26 C  
+HETATM    2  C   UNL N   1      23.148   9.509  10.208  0.00  0.00      6U26 C  
+HETATM    3  C   UNL N   1      21.981  10.263  10.105  0.00  0.00      6U26 C  
+HETATM    4  C   UNL N   1      21.073  10.022   9.062  0.00  0.00      6U26 C  
+HETATM    5  C   UNL N   1      21.269   8.918   8.221  0.00  0.00      6U26 C  
+HETATM    6  C   UNL N   1      22.429   8.144   8.340  0.00  0.00      6U26 C  
+HETATM    7  C   UNL N   1      24.702   7.765   9.286  0.00  0.00      6U26 C  
+HETATM    8  C   UNL N   1      25.173   6.800  10.182  0.00  0.00      6U26 C  
+HETATM    9  N   UNL N   1      26.457   6.529   9.852  0.00  0.00      6U26 N  
+HETATM   10  N   UNL N   1      26.815   7.264   8.810  0.00  0.00      6U26 N  
+HETATM   11  C   UNL N   1      27.362   5.592  10.511  0.00  0.00      6U26 C  
+HETATM   12  C   UNL N   1      25.773   8.044   8.458  0.00  0.00      6U26 C  
+HETATM   14  C   UNL N   1      24.459   6.234  11.367  0.00  0.00      6U26 C  
+HETATM   15  O   UNL N   1      24.479   6.831  12.427  0.00  0.00      6U26 O  
+HETATM   16  O   UNL N   1      23.873   5.002  11.293  0.00  0.00      6U26 O  
+HETATM   17  C   UNL N   1      22.642   4.721  10.703  0.00  0.00      6U26 C  
+HETATM   18  C   UNL N   1      22.784   4.442   9.190  0.00  0.00      6U26 C  
+HETATM   19  O   UNL N   1      21.812   5.822  10.868  0.00  0.00      6U26 O  
+HETATM   20  C   UNL N   1      20.454   5.744  10.895  0.00  0.00      6U26 C  
+HETATM   21  O   UNL N   1      19.886   5.138  11.797  0.00  0.00      6U26 O  
+HETATM   22  O   UNL N   1      19.735   6.290   9.881  0.00  0.00      6U26 O  
+HETATM   23  C   UNL N   1      18.629   5.669   9.332  0.00  0.00      6U26 C  
+HETATM   24  C   UNL N   1      19.066   4.583   8.361  0.00  0.00      6U26 C  
+HETATM   25  C   UNL N   1      19.916  10.923   8.928  0.00  0.00      6U26 C  
+HETATM   26  O   UNL N   1      20.166  12.012   8.431  0.00  0.00      6U26 O  
+HETATM   27  N   UNL N   1      18.598  10.627   9.294  0.00  0.00      6U26 N  
+HETATM   28  C   UNL N   1      18.055   9.400   9.967  0.00  0.00      6U26 C  
+HETATM   29  C   UNL N   1      16.542   9.149  10.232  0.00  0.00      6U26 C  
+HETATM   30  C   UNL N   1      15.964   9.978  11.394  0.00  0.00      6U26 C  
+HETATM   31  C   UNL N   1      16.827   9.826  12.643  0.00  0.00      6U26 C  
+HETATM   32  N   UNL N   1      18.223  10.162  12.330  0.00  0.00      6U26 N  
+HETATM   33  C   UNL N   1      18.750   9.205  11.350  0.00  0.00      6U26 C  
+HETATM   34  H   UNL N   1      18.778  10.077  13.214  0.00  0.00      6U26 H  
+HETATM   35  C   UNL N   1      17.592  11.629   9.025  0.00  0.00      6U26 C  
+HETATM   36  N   UNL N   1      16.931  11.591   7.830  0.00  0.00      6U26 N  
+HETATM   37  C   UNL N   1      16.017  12.531   7.470  0.00  0.00      6U26 C  
+HETATM   39  C   UNL N   1      15.740  13.596   8.322  0.00  0.00      6U26 C  
+HETATM   40  C   UNL N   1      16.411  13.692   9.537  0.00  0.00      6U26 C  
+HETATM   41  C   UNL N   1      17.347  12.721   9.905  0.00  0.00      6U26 C  
+HETATM   42 Cl   UNL N   1      18.252  12.984  11.398  0.00  0.00      6U26Cl  
